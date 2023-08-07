@@ -20,14 +20,8 @@ const handlecheck=(id)=>{
 }
    
 
-function listis(){
-  if (items[0]==null) {
-    return "list is empty";
-  }
-  
-} 
 
-const len=items.length;
+
 
   return (
     
